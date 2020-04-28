@@ -1,0 +1,5 @@
+add_executable(demo_freund main_demo_freund.c)
+target_link_libraries (demo_freund freund)
+
+add_executable(demo_dynamishe_liste main_demo_dynamishe_liste.c)
+target_link_libraries (demo_dynamishe_liste my_str freund)
