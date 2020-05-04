@@ -1,3 +1,3 @@
 # lineare_listen
-## Für studierende
-adfadsfas
+Einfaches beispiel einer linearen Liste mit add, clear, print, ..
+
